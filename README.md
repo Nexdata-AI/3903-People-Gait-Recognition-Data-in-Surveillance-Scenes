@@ -3,7 +3,7 @@
 ## Description
 3,903 People - Gait Recognition Data in Surveillance Scenes. The data includes indoor scenes and outdoor scenes. The data includes males and females, and the age distribution is from children to the elderly. The data diversity includes multiple age groups, multiple time periods, multiple scenes, different camera angles, different seasonal clothes, different walk speed. The data can be used for tasks such as gait recognition in surveillance scenes.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1145?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1145?source=Github
 
 
 # Specifications
